@@ -1,0 +1,33 @@
+{
+  "name": "hubot-slack-scrapfy",
+  "version": "0.0.1",
+  "description": "A robot to open scrapfy room from a slack channel",
+  "homepage": "https://github.com/tilap/hubot-slack-scrapfy",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tilap/hubot-slack-scrapfy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tilap/hubot-slack-scrapfy/issues"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "slack",
+    "hubot-slack",
+    "scrapfy"
+  ],
+  "main": "index.coffee",
+  "author": "Julien Tilap LA VINH <jlavinh@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "0.11.x"
+  },
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
