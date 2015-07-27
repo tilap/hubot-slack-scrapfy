@@ -1,6 +1,6 @@
 # Releases
 
-## Version [v0.1.0](https://github.com/tilap/hubot-slack-scrapfy/releases/tag/v0.1.0)
+## Version [v0.0.1](https://github.com/tilap/hubot-slack-scrapfy/releases/tag/v0.0.1)
 
 - create scrapfy room command
 - list available language
